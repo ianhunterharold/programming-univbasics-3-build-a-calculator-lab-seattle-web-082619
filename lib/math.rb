@@ -19,6 +19,7 @@ return mult
 end
 
 def modulo(num1, num2)
+modulus = num1/num2
 
 end
 
